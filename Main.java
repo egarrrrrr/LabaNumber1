@@ -51,8 +51,5 @@ public class Main {
                 System.out.println("Ответ: (0; " + (-a) + "]");
             }
         }
-
-        // Закрываем сканер
-        scanner.close();
     }
 }
